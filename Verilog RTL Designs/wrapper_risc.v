@@ -24,6 +24,7 @@ module wrapper_risc(
 
     input wire clk,
     input wire btnC,
+    input wire mohanty,
     //input wire [1:0]sw,
     output wire [7:0]led
     );
